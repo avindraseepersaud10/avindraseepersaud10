@@ -2,4 +2,4 @@
 - 👀 I’m interested in web technologies, front-end development, and user experience design.
 - 🌱 I’m currently learning JavaScript frameworks like React and Vue, as well as responsive design principles.
 - 💞️ I’m looking to collaborate on open-source web projects, innovative web apps, and community-driven platforms.
-- 📫 How to reach me: linkedin.com/in/avindra-seepersaud
+- 📫 How to reach me: [Link to linkedln](https://www.linkedin.com/in/avindra-seepersaud/)
