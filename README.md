@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-source web projects, innovative web apps, and community-driven platforms.
 - 📫 How to reach me: [Link to linkedln](https://www.linkedin.com/in/avindra-seepersaud/)
 - 🌱 Watch me build one website everyday:
-1. https://personal-profile-d0ea7.web.app/
+  - D1: https://personal-profile-d0ea7.web.app/
